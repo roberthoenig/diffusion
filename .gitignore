@@ -1,1 +1,6 @@
 *.png
+*.pt
+*.obj
+*.gif
+.ipynb_checkpoints/
+*.npy
