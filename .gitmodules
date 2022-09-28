@@ -1,0 +1,3 @@
+[submodule "e3_diffusion_for_molecules"]
+	path = e3_diffusion_for_molecules
+	url = git@github.com:ehoogeboom/e3_diffusion_for_molecules.git
